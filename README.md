@@ -73,7 +73,8 @@ The dashboard helps identify sales trends, customer purchasing behavior, regiona
 
 ## Dashboard Preview
 
-(Add dashboard screenshots here)
+<img width="1429" height="802" alt="Screenshot 2026-08-07 101802" src="https://github.com/user-attachments/assets/3d7fc2bb-d159-42de-b25d-6ace3cc827ea" />
+
 
 ---
 
